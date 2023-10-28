@@ -1,2 +1,2 @@
-# Grid
+# Bootstrap
 Mini tarjeta 
